@@ -1,1 +1,13 @@
 // Custom Styles
+
+.top-bar {
+	background-color: #34495E;
+}
+
+.sub-nav dt a:first-child, .sub-nav dd a:first-child, .sub-nav li a:first-child {
+	padding-left: 0;
+}
+
+.panel.callout {
+	background: #E4F1FE;
+}
